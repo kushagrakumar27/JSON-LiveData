@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1067139270254",
+    "firebase_url": "https://hackerrank-8bc18.firebaseio.com",
+    "project_id": "hackerrank-8bc18",
+    "storage_bucket": "hackerrank-8bc18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067139270254:android:1f8b56ed554d0ac4",
+        "android_client_info": {
+          "package_name": "com.example.hackernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067139270254-cf5c93fscpnss8pp3e8kht3rrl6vaf6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackernews",
+            "certificate_hash": "7e1b42c8c4fb32c815b5e232f40209e0405d481c"
+          }
+        },
+        {
+          "client_id": "1067139270254-sca3vmeqgml2suukqrctdeol4s4mo306.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaxe5CZirqO9bIbUssbrwjGvfbnkdsyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067139270254-sca3vmeqgml2suukqrctdeol4s4mo306.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067139270254-nrnk1udtbs51fhl7nu929m2pq4npt6s9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "asd"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
